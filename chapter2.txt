@@ -1,2 +1,6 @@
 it is the morder way of window chappter 2 is updated
+<<<<<<< HEAD
 modefing with main branch and commiting and checking logs this time 
+=======
+succefuly
+>>>>>>> expperimentalBranch
